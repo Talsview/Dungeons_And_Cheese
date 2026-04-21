@@ -132,7 +132,7 @@ Baixe a versão mais recente do jogo aqui:
 
 * **Versão:** 1.0
 * **Plataforma:** Windows
-* **Formato:** Instalador (.msi)
+* **Formato:** Instalador (.exe)
 
 ---
 
@@ -140,7 +140,7 @@ Baixe a versão mais recente do jogo aqui:
 
 Após baixar:
 
-1. Execute o arquivo `.msi`
+1. Execute o arquivo `.exe`
 2. Siga o instalador
 3. Use o atalho criado na área de trabalho
 
