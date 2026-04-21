@@ -120,6 +120,30 @@ C:\Users\SeuUsuario\AppData\Local\Programs\DungeonsAndCheese
 Projeto criado como parte de estudos em desenvolvimento de jogos com Java + LibGDX.
 
 ---
+## ⬇️ Download
+
+Baixe a versão mais recente do jogo aqui:
+
+👉 https://drive.google.com/drive/folders/1AtWiSb1d7KQHQN7_3ikdK2m-7yKbKVGl?usp=drive_link
+
+---
+
+### 📦 Versão atual
+
+* **Versão:** 1.0
+* **Plataforma:** Windows
+* **Formato:** Instalador (.msi)
+
+---
+
+### ⚠️ Importante
+
+Após baixar:
+
+1. Execute o arquivo `.msi`
+2. Siga o instalador
+3. Use o atalho criado na área de trabalho
+
 
 ## 🧀 Boa sorte, aventureiro.
 
